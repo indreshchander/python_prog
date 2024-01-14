@@ -30,3 +30,16 @@ print("Class Variable accessing through class variable:", MyClass.class_variable
 print("Instance Variable for obj1:", obj1.instance_variable)  # Output: Instance Variable for obj1: 10
 print("Instance Variable for obj2:", obj2.instance_variable)  # Output: Instance Variable for obj2: 20
 
+
+
+
+"""
+    OUTPUT
+
+
+Class Variable: 999
+Class Variable: 999
+Class Variable accessing through class variable: 999
+Instance Variable for obj1: 10
+Instance Variable for obj2: 20
+"""
